@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  author: Yoda
+  content: The force is strong in this one.
+  private: false
+  recipient: Obi-Wan Kenobi
+
+two:
+  id: 2
+  author: Obi-Wan Kenobi
+  content: Be mindful of your thoughts, Anakin, they betray you.
+  private: true
+  recipient: Anakin Skywalker
