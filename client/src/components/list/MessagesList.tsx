@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import { isPropertyAccessOrQualifiedName } from 'typescript';
-import { mockMessages } from '../../mocks/messages';
 import { Message } from '../../model/Message';
 import Drawer from '../drawer/Popup';
 
