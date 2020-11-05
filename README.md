@@ -1,5 +1,7 @@
 # Ruby on Rails messages API
 
+![Demo](demo.png)
+
 ## Requirements
 
 - make
